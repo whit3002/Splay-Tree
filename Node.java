@@ -1,7 +1,4 @@
 /*Whitney Humecky
- * Project 3
- * CS 3345.0U2
- * Dr. Zhao
  * Class creates and stores nodes and relevant data
  */
 
