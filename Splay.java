@@ -1,7 +1,4 @@
 /* Whitney Humecky
- * Project 1
- * CS 3345.0U2
- * Dr. Zhao
  * Class constructs a splay tree, performs
  * insertion, deletion, and search functions
  */
